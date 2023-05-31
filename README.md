@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-shinchan-xd&label=Profile%20views&color=0e75b6&style=flat" alt="not-shinchan-xd" /> </p>
 
 - Discord - [`SIKEY</>™#8620](https://discord.com/users/763372211775602758)
-- Instagram - [not_shinchan_xd](https://instagram.com/not_shinchan_xd)
 
 - 🌱 I’m currently learning **Python, Java script, Html, Css**
 
