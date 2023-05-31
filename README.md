@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sikey-Dev</h1>
-<h3 align="center">I'm Hasibur Rahman and I'm Learning Python Developer</h3>
+<h3 align="center">I'm Sikey and I'm Learning Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-shinchan-xd&label=Profile%20views&color=0e75b6&style=flat" alt="not-shinchan-xd" /> </p>
 
