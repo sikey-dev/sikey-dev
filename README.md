@@ -6,7 +6,7 @@ class sikey:
         nationality = "Bangladeshi"
         languages = ["Bengali", "English", "hindi"]
 
-        programing_languages = ["Python", "html", "Javascript", "css"]
+        programing_languages_learning = ["Python", "html", "Javascript", "css"]
         projects = ["2"]
 
         discord = {
